@@ -1,5 +1,3 @@
-**WE'RE HIRING** http://www.cocolabs.io/fr/cdi-developpeur-symfony/
-
 # Cocorico
 
 Cocorico is an open source platform to create collaborative consumption marketplaces.
@@ -337,4 +335,3 @@ review the [guidelines for contributing](CONTRIBUTING.md).
 # License
 
 Cocorico is released under the [MIT license](LICENSE).
-
